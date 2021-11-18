@@ -4,7 +4,7 @@
 ## 使用步骤
 
 ``` bash
-# 安装
+# 安装 
 npm install pic-scale --save
 
 ```
